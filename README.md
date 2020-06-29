@@ -25,4 +25,4 @@ All the steps are already written in the along with the code in the notebook !
 ### Note :
 If you do come across any doubts or problem feel free to ask!
 
-### If you like this kernel feel free to upvote and leave feedback, thanks!
+### If you like this kernel feel free to star ⭐ and leave feedback, thanks!
