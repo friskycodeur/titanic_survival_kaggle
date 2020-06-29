@@ -18,4 +18,11 @@ In this notebook I will show you how a beginner (in this case ,me) approached th
 
 - Can we predict if a passenger survived from the disaster with using machine learning techniques?
 
+### Steps for making this project : 
+
+All the steps are already written in the along with the code in the notebook !
+
+### Note :
+If you do come across any doubts or problem feel free to ask!
+
 ### If you like this kernel feel free to upvote and leave feedback, thanks!
