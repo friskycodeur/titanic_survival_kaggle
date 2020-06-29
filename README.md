@@ -2,8 +2,6 @@
 
 <div align='center'><font size="6" color="#000000"><b>Titanic Survival Prediction : The beginner's way !</b></font></div>
 <hr>
-<div align='center'><font size="5" color="#000000">Introduction</font></div>
-<hr>
 
 When I started doing this analysis my main goal was getting experience. I'm still learning and trying to improve my skills, so there is a great chance that there will be some areas for improvement.
 <br><br>
